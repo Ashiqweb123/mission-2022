@@ -1,12 +1,13 @@
 body
 {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .mission
 {
     color:orange;
 }
-.banner-container
+.flexiable-container
 {
     display: flex;
     padding: 20px;
@@ -35,4 +36,35 @@ body
     border-radius: 5px;
     color: white;
     
+}
+.heading-container
+{
+    text-align: center;
+    font-weight: 700;
+}
+.mission-conatainer
+{
+    width: 33%;
+    margin: 20px;
+    padding: 40px;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+.firstDiv
+{
+    background-color: #ceecf0;
+}
+.secondDiv
+{
+    background-color: #f1cbcb;
+}
+.thirdDiv
+{
+    background-color: #ebe1c8;
+}
+.mission-conatainer img
+{
+    width:150px;
+    height: 150px;
 }
