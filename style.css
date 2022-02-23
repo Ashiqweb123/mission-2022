@@ -68,3 +68,12 @@ body
     width:150px;
     height: 150px;
 }
+.codeimg-container img
+{
+    width:400px;
+    height: 400px;
+}
+.codeimg-container
+{
+    width: 50%;
+}
